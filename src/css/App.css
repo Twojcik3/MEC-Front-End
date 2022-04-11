@@ -1,0 +1,29 @@
+.App {
+  font-family: 'Courier New', Courier, monospace;
+}
+.container {
+  margin-top: 80px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 80%;
+  background-color: aliceblue;
+  border-radius: 20px;
+}
+.container__headers {
+  height: 75px;
+  border-bottom: 1px solid;
+}
+.container__header {
+  float: left;
+  padding-top: 20px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.navigation {
+  width: 600px;
+  margin-left: 150px;
+}
+.nav-bar{
+  float: left
+}
